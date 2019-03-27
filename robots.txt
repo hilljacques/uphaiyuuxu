@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://niocoohaiv.xn--ilfuturo-80a.it/sitemap.xml
